@@ -94,4 +94,4 @@ Problem Solving          ██████████████████
 
 ---
 
-⭐ *Building, learning, and improving — one project at a time.*
+⭐ *Building, learning, and improving.*
